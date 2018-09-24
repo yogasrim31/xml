@@ -1,0 +1,34 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "ex3sheet.xsl"?>
+<class>
+<Book Book_ID = "EC23145">
+<Title>Digital Circuits</Title>
+<Author>Janardhan S Chitode</Author>
+<Publication>Technical</Publication>
+<Price>Rs.450</Price>
+</Book>
+<Book Book_ID = "ME78156">
+<Title>Kinematics</Title>
+<Author>I.A.Dhotre</Author>
+<Publication>Technical</Publication>
+<Price>Rs.850</Price>
+</Book>
+<Book Book_ID = "MA11759">
+<Title>Linear Algebra</Title>
+<Author>G.Balaji</Author>
+<Publication>Balaji</Publication>
+<Price>Rs.800</Price>
+</Book>
+<Book Book_ID = "ME71453">
+<Title>Material Technology</Title>
+<Author>Varsha Bhosle</Author>
+<Publication>Magnum</Publication>
+<Price>Rs.350</Price>
+</Book>
+<Book Book_ID = "EE82135">
+<Title>Electircal Engineering Materials</Title>
+<Author>Arun Kumar Jain</Author>
+<Publication>S.Chand</Publication>
+<Price>Rs.700</Price>
+</Book>
+</class>

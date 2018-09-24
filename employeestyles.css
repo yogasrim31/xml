@@ -1,0 +1,13 @@
+employee
+{   }
+firstname,lastname,dept,email
+{
+font-family : "Arial,Times New Roman, Serif";
+font-size : 18px;
+color : hotpink;
+display : block;
+border-style : solid;
+border-color : black;
+border-width : 1px;
+margin-right : 1000px;
+}
